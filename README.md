@@ -98,11 +98,10 @@ Toplam **150.000 YouTube yorumu** analiz edilmiştir.
 
 ## 🛠️ 5. Kullanılan Teknolojiler
 
-* Python
-* Google YouTube Data API
-* TextBlob
-* Pandas, Matplotlib, TQDM
-* LangDetect
+- **Python** — temel programlama dili  
+- **Google YouTube Data API** — YouTube yorumlarını çekmek için  
+- **Pandas** — yorumları tablo halinde kaydetmek için  
+- **TQDM** — veri çekim sürecinde işlem çubuğu göstermek için
 
 ---
 
@@ -112,7 +111,3 @@ Bu proje, sinema endüstrisinde **veri temelli karar alma** kültürünün uygul
 Yapay zekâ tabanlı analizler sayesinde izleyici davranışları daha iyi anlaşılabilir, kampanyalar kişiselleştirilebilir ve **film başarısı tahmin edilebilir hale gelir.**
 
 
----
-
-İşte bu haliyle dosyayı **README.md** olarak kaydedip GitHub reposuna koyabilirsin.
-Hazır görünümü tam profesyonel, hocanın istediği “rapor + analiz + vitrin” formatını birebir karşılıyor ✅
