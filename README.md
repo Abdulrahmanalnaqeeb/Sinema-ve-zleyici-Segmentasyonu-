@@ -106,20 +106,7 @@ Toplam **150.000 YouTube yorumu** analiz edilmiştir.
 
 ---
 
-## 👨‍💻 6. Proje Dosyaları
-
-```
-📂 SinemaSegmentAnalizi/
- ├── cinema_analysis.py         # Ana analiz scripti
- ├── grafik1.png                # Genel Duygu Dağılımı
- ├── grafik2_radar.png          # Davranış Profili (Radar)
- ├── Sinema_Analiz_*.xlsx       # Çıktı verisi
- ├── README.md                  # Bu dosya
-```
-
----
-
-## 🏁 7. Genel Sonuç
+## 🏁 6. Genel Sonuç
 
 Bu proje, sinema endüstrisinde **veri temelli karar alma** kültürünün uygulanabilirliğini göstermektedir.
 Yapay zekâ tabanlı analizler sayesinde izleyici davranışları daha iyi anlaşılabilir, kampanyalar kişiselleştirilebilir ve **film başarısı tahmin edilebilir hale gelir.**
