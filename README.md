@@ -142,17 +142,17 @@ Bu proje yalnızca bir analiz değil, **geri besleme mekanizması** da önerir:
 
 🛠️ 8. Kullanılan Teknolojiler
 
-Python
+*Python
 
-Google YouTube Data API (veri toplama)
+*Google YouTube Data API (veri toplama)
 
-Pandas & Matplotlib (veri işleme & görselleştirme)
+*Pandas & Matplotlib (veri işleme & görselleştirme)
 
-TextBlob (sentiment analizi)
+*TextBlob (sentiment analizi)
 
-LangDetect (dil algılama)
+*LangDetect (dil algılama)
 
-TQDM (işlem ilerlemesi takibi)
+*TQDM (işlem ilerlemesi takibi)
 
 ---
 
