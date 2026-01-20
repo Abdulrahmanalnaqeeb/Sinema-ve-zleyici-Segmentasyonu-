@@ -140,7 +140,7 @@ Bu proje yalnızca bir analiz değil, **geri besleme mekanizması** da önerir:
 
 ---
 
-🛠️ 8. Kullanılan Teknolojiler
+## 🛠️ 8. Kullanılan Teknolojiler
 
 * **Python**
 
