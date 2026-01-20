@@ -140,12 +140,19 @@ Bu proje yalnızca bir analiz değil, **geri besleme mekanizması** da önerir:
 
 ---
 
-## 🛠️ 8. Kullanılan Teknolojiler
+🛠️ 8. Kullanılan Teknolojiler
 
-- **Python** — temel programlama dili  
-- **Google YouTube Data API** — YouTube yorumlarını çekmek için  
-- **Pandas** — yorumları tablo halinde kaydetmek için  
-- **TQDM** — veri çekim sürecinde işlem çubuğu göstermek için
+Python
+
+Google YouTube Data API (veri toplama)
+
+Pandas & Matplotlib (veri işleme & görselleştirme)
+
+TextBlob (sentiment analizi)
+
+LangDetect (dil algılama)
+
+TQDM (işlem ilerlemesi takibi)
 
 ---
 
